@@ -13,9 +13,8 @@ Recent topics include federated learning, privacy-preserving training, adversari
 There is a need for more exploratory research focusing on bias, alignment, safety, and explainability in AI systems.
 
 ## Authors
-Benedikt Rein
-Leila Zafarmand
-Theodor Rellin
+Benedikt Rein, Theodor Rellin, Leila Zafarmand
+
 
 ## Contributing
 This repository is intended as a knowledge hub for those interested in AI security and privacy. Contributions, whether in the form of discussions, issues, or pull requests for extending the research, are welcome.
